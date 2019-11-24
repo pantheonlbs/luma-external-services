@@ -3,6 +3,7 @@
     "author": "IsBadAtEnglish",
     "scripts": {
         "build": "tsc",
+        "start": "node index.js",
         "mkenv": "sed 's/=.*/=/' .env > .env.example"
     },
     "dependencies": {
