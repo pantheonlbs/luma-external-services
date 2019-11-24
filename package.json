@@ -1,0 +1,11 @@
+{
+    "name": "luma-external-services",
+    "author": "IsBadAtEnglish",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "koa": "^2.11.0",
+        "koa-router": "^7.4.0"
+    }
+}
